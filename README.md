@@ -14,7 +14,7 @@ Just come in and enjoy the milestones of ebchoi's dev log.
 
 ### Installing
 There is nothing to install for this repository.
-Simply 
+Simply connect to `ebchoi.github.io` and enjoy!
 
 ### Programming Languages
 Python
